@@ -4,9 +4,11 @@ pink
 orange
 blue
 green
+unicorn
 yellow
 red
-These are the colors of the rainbow yaay. :D
+These are the colors of the rainbow yaay and the unicorn. :D
+the rainbow and the unicorn
 
 
 
